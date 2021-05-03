@@ -1,0 +1,3 @@
+[submodule "cobol-programming-course"]
+	path = cobol-programming-course
+	url = git@github.com:openmainframeproject/cobol-programming-course.git
