@@ -19,4 +19,12 @@ This made me wonder why all this hassle, can't I just log in to the lab and work
 
 
 
+---
+References
 
+1. [z/OS for Linux folks - M116](https://www.youtube.com/watch?v=UAimEqwiUH0)
+2. [Turn your laptop into a portable mainframe](https://oofhours.com/2019/09/17/turn-your-laptop-into-a-portable-mainframe/)
+3. [Using command line to interact with z/OS](https://ibm.github.io/zopeneditor-about/Docs/interact_zos_cli.html#comparison-between-zowe-cli-and-rse-cli-plug-in)
+4. [COBOL Course - Programming with VSCode](https://www.youtube.com/watch?v=RdMAEdGvtLA)
+5. [RPF: Rob's Programming Facility](http://www.prince-webdesign.nl/rpf)
+6. [IBM Public Domain Software Collection](http://www.ibiblio.org/jmaynard/)
