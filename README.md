@@ -12,14 +12,13 @@ The guide mentions two extensions I will need to get to begin working with the c
 
 ![Zowe Explorer](img/zowe-explorer.png)
 
-This made me wonder why all this hassle, can't I just log in to the lab and work from there? And the answer is *I probably could*, however I did not realize how different interacting with mainframe is in comparison to for instance Linux, so the Zowe's purpose is to bridge a gap between the modern tools and the mainframe interface. How different can it be? One may ask... well... actually quite a lot... [Here is a nice video](https://www.youtube.com/watch?v=UAimEqwiUH0) showing how to perform common Linux commands on z/OS. In short the primary interactive interface to the operating system is menu based:
+This made me wonder why all this hassle, can't I just log in to the lab and work from there? And the answer is *I probably could*, however I did not realize how different interacting with mainframe is in comparison to more popular systems, so the Zowe's purpose is to bridge a gap between the modern tools and the mainframe interface. How different can it be, one may ask... well... actually quite a lot... [Here is a nice video](https://www.youtube.com/watch?v=UAimEqwiUH0) showing how to perform common Linux commands on z/OS, In short the primary interactive interface to the operating system is menu based. You can do everything with it - from creating a data set to writing a program and scheduling it.
 
 ![ISPF](img/ispf-home.png)
 
 
 
 
----
 References
 
 1. [z/OS for Linux folks - M116](https://www.youtube.com/watch?v=UAimEqwiUH0)
@@ -28,3 +27,7 @@ References
 4. [COBOL Course - Programming with VSCode](https://www.youtube.com/watch?v=RdMAEdGvtLA)
 5. [RPF: Rob's Programming Facility](http://www.prince-webdesign.nl/rpf)
 6. [IBM Public Domain Software Collection](http://www.ibiblio.org/jmaynard/)
+
+Write Your First Mainframe App Using ISPF
+https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/anthony-giorgio2/2020/04/02/write-your-first-mainframe-app-using-ispf-part-1-what-is-ispf
+https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/anthony-giorgio2/2020/04/02/write-your-first-mainframe-app-using-ispf-part-2-what-data-sets-do-you-need
